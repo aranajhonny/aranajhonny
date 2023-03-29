@@ -1,4 +1,4 @@
-- 📫 aranajhonny@icloud.com
+- 📫 jhonny@membrane.io
 
 <!---
 aranajhonny
