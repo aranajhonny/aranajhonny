@@ -9,7 +9,7 @@
 ### 💻 Tech Stack & Expertise
 
 * **Languages & Core:** `Rust` `TypeScript` `Python` `Node.js` `React` `WASM`
-* **AI / LLM Infra:** `Agentic Workflows (MCP)` `RAG` `FIM Training` `QLoRA / LoRA` `vLLM` `PyTorch` `Vector DBs`
+* **AI / LLM Infra:** `Agentic Workflows (MCP)` `RAG` `Vector DBs`
 * **Backend & Cloud:** `PostgreSQL` `MySQL` `Redis` `Docker` `WebSocket` `IoT Telemetry`
 
 ---
